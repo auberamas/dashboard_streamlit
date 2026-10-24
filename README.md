@@ -9,7 +9,7 @@ quelles catégories creusent les écarts et ces écarts bougent-ils entre 2015 e
 
 ## Installation pas à pas
 
-**Prérequis** : Python 3.12 et environ 3 Go d'espace disque si les données doivent être téléchargées.
+**Prérequis** : environ 3 Go d'espace disque (le dataset fait presque 1 Go) si les données doivent être téléchargées.
 
 1. Décompresser le projet puis ouvrir un terminal dans le dossier du projet.
 2. Installer les dépendances :
