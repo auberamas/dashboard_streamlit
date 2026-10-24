@@ -1,0 +1,17 @@
+# Dashboard
+streamlit==1.65.0
+pandas==3.0.2
+numpy==2.4.3
+plotly==7.1.0
+
+# Cleaning and notebook
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# Download of the data from data.gouv.fr
+httpx==0.28.1
+# system certificate store, needed on this machine where the default bundle fails on data.gouv.fr
+truststore==0.10.5
+
+# Tests
+pytest==9.1.1
